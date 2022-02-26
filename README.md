@@ -1,1 +1,1 @@
-# ejercicios-de-recursividad
+# ejerciciosderecursividad
